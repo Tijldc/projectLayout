@@ -1,0 +1,52 @@
+* {
+	box-sizing: border-box;
+}
+
+.bigBox {
+	width: 800px;
+	margin-top: 150px;
+	margin-bottom: 150px;
+	margin-left: auto;
+	margin-right: auto;
+	font-size: 0;
+
+}
+
+.top {
+height:200px;
+width:50%;
+display:inline-block;
+border: 1px solid black;
+font-size: 0;
+
+}
+
+.bottom {
+height:300px;
+width:33.33%;
+font-size: 0;
+display: inline-block;
+border: 1px solid black;
+
+}
+
+.blue{
+background-color: blue;
+
+}
+
+.yellow {
+background-color: yellow;
+}
+
+.red{
+background-color: red;
+}
+
+.green {
+background-color: green;
+}
+
+.brown {
+background-color: brown;
+}
